@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "D:\\download\\oop.p8.web.comenzi\\oop.vaadin",
+  "node.version": "v20.9.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "D:\\download\\oop.p8.web.comenzi\\oop.vaadin\\frontend",
+  "connect.javaSourceFolder": "D:\\download\\oop.p8.web.comenzi\\oop.vaadin\\src\\main\\java",
+  "javaResourceFolder": "D:\\download\\oop.p8.web.comenzi\\oop.vaadin\\src\\main\\resources",
+  "connect.applicationProperties": "D:\\download\\oop.p8.web.comenzi\\oop.vaadin\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "D:\\download\\oop.p8.web.comenzi\\oop.vaadin\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "D:\\download\\oop.p8.web.comenzi\\oop.vaadin\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

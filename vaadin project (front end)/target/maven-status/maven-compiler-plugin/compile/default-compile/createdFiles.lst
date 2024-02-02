@@ -1,0 +1,6 @@
+org\app\comenzi\web\views\utilizatori\FormUtilizatorView.class
+org\app\comenzi\web\views\utilizatori\NavigableGridUtilizatoriView.class
+org\app\comenzi\web\AppShell.class
+org\app\comenzi\web\MainView.class
+org\app\comenzi\web\views\continut\FormContinutView.class
+org\app\comenzi\web\views\continut\NavigableGridContinuturiView.class

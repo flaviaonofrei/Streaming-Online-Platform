@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/download/oop.p8.web.comenzi/oop.vaadin/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/download/oop.p8.web.comenzi/oop.vaadin/frontend/generated/jar-resources",
+  "staticOutput": "D:/download/oop.p8.web.comenzi/oop.vaadin/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\download\\oop.p8.web.comenzi\\oop.vaadin\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\download\\oop.p8.web.comenzi\\oop.vaadin\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/download/oop.p8.web.comenzi/oop.vaadin/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/download/oop.p8.web.comenzi/oop.vaadin/src/main/dev-bundle/config",
+  "jarResourcesFolder": "D:/download/oop.p8.web.comenzi/oop.vaadin/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\download\\oop.p8.web.comenzi\\oop.vaadin\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
